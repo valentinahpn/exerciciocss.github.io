@@ -1,0 +1,28 @@
+
+
+.conteudo{
+	height:400px;
+	width:60%;
+	border-right: .20em solid green;
+	border-left: .20em solid red;
+	float:left;
+	font-size:12px;
+	font: verdana;
+	text-align: justify;
+	letter-spacing: .3em;
+	word-spacing: .4ex;
+
+}
+
+:first-letter {
+
+font-size:36px;
+color: blue;
+text-decoration: overline;
+}
+
+:first-line {
+
+text-decoration: underline;
+text-transform: uppercase;
+}
