@@ -1,0 +1,39 @@
+nav{
+
+border: 1px solid blue;
+height: 60px;
+width: 24%;
+}
+ul li {
+
+display: inline;
+float: center;
+}
+a:hover{
+
+text-decoration: overline;
+}
+.logo{
+
+float: left;
+}
+
+.noticias{
+
+color:red;
+}
+
+.esportes{
+
+color: green;
+}
+
+.entretenimento{
+color: yellow;
+}
+
+.videos{
+
+color: blue;
+}
+
