@@ -1,8 +1,8 @@
 ul{
 
-list-style: inside url("");
+list-style: inside src("");
 color: red;
-font-family: Verdana;
+font: Verdana;
 font-size: 12px;
 }
 
@@ -16,5 +16,5 @@ border-bottom: 1px solid green;
 }
 
 li:hover{
-list-style-image: url("");
+list-style-image: src("");
 }
